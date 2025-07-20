@@ -92,7 +92,3 @@ python sniffer.py --filter "tcp" --iface eth0 --dir logs --max-packets 500
 ## Contatti
 
 Per domande o suggerimenti, sentiti libero di contattarmi!
-
----
-
-Se vuoi posso aiutarti anche a migliorare o estendere il codice, fammi sapere!
