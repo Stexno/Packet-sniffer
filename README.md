@@ -1,4 +1,4 @@
-### Sniffer di Rete Multithread con Rotazione File e Logging
+# Sniffer di Rete Multithread con Rotazione File e Logging
 
 Questo script Python utilizza **Scapy** per catturare pacchetti di rete in tempo reale da un'interfaccia specificata, salvarli in file pcap con rotazione automatica dopo un numero massimo di pacchetti, e loggare le informazioni dei pacchetti catturati.
 
